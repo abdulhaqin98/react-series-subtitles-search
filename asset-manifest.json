@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react_series_subtitles_search/static/css/main.ff3b106e.css",
-    "main.js": "/react_series_subtitles_search/static/js/main.296e1d72.js",
-    "static/js/787.af3502bb.chunk.js": "/react_series_subtitles_search/static/js/787.af3502bb.chunk.js",
-    "index.html": "/react_series_subtitles_search/index.html",
-    "main.ff3b106e.css.map": "/react_series_subtitles_search/static/css/main.ff3b106e.css.map",
-    "main.296e1d72.js.map": "/react_series_subtitles_search/static/js/main.296e1d72.js.map",
-    "787.af3502bb.chunk.js.map": "/react_series_subtitles_search/static/js/787.af3502bb.chunk.js.map"
+    "main.css": "/react-series-subtitles-search/static/css/main.ff3b106e.css",
+    "main.js": "/react-series-subtitles-search/static/js/main.81ffda94.js",
+    "static/js/787.af3502bb.chunk.js": "/react-series-subtitles-search/static/js/787.af3502bb.chunk.js",
+    "index.html": "/react-series-subtitles-search/index.html",
+    "main.ff3b106e.css.map": "/react-series-subtitles-search/static/css/main.ff3b106e.css.map",
+    "main.81ffda94.js.map": "/react-series-subtitles-search/static/js/main.81ffda94.js.map",
+    "787.af3502bb.chunk.js.map": "/react-series-subtitles-search/static/js/787.af3502bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ff3b106e.css",
-    "static/js/main.296e1d72.js"
+    "static/js/main.81ffda94.js"
   ]
 }
