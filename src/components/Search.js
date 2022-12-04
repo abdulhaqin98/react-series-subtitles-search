@@ -1134,8 +1134,8 @@ const Search = () => {
             }
          }
 
-         // if(rlength > 0) {
-         if (rlength > 1) {
+         if(rlength > 0) {
+         // if (rlength > 1) {
             uniqueWord++;
             console.log(wordList[j] + "-" + rlength)
          }
